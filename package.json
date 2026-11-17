@@ -1,6 +1,6 @@
 {
   "name": "payload-coupons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Coupon codes and discounts for Payload ecommerce, in integer minor units with exact rounding.",
   "keywords": [
     "payload",
